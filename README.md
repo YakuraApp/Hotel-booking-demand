@@ -1,5 +1,9 @@
 # Hotel Booking Cancellation Analysis & Revenue Optimization
 
+## 📊 Final Analysis Notebook
+
+[View Final Notebook](./final.ipynb)
+
 ## Project Overview
 
 This project analyzes hotel booking data to identify key drivers of cancellations and quantify their impact on revenue. The objective is to provide clear, data-driven strategies that reduce cancellations and improve profitability.
