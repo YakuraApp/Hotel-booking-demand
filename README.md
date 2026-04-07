@@ -2,7 +2,7 @@
 
 ## 📊 Final Analysis Notebook
 
-[View Final Notebook](./final.ipynb)
+[View Final Notebook](./Final.ipynb)
 
 ## Project Overview
 
